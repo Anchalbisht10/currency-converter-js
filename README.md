@@ -22,3 +22,5 @@ A currency converter application that converts values between different currenci
 ##Live Demo
 Check out the live project here:
 [Currency-Converter](https://currency-converter-js-neon.vercel.app)
+
+Built by Anchal Bisht
