@@ -18,3 +18,7 @@ A currency converter application that converts values between different currenci
 ## How to Run
 1. Open the project folder
 2. Run using Live Server or open `index.html`
+
+##Live Demo
+Check out the live project here:
+[Currency-Converter](https://currency-converter-js-neon.vercel.app)
